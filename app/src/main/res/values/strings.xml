@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Payment Flow</string>
+    <string name="loading">Loading…</string>
+    <string name="action_forward">Forward</string>
+    <string name="set_the_amount">Set the amount</string>
+    <string name="amount">Amount</string>
+    <string name="next">Next</string>
+    <string name="amount_message">The amount must be less than or equal to 1000 and can have 2 decimals</string>
+    <string name="total_amount_label">Total amount</string>
+    <string name="total_amount">"%.2f €"</string>
+    <string name="contact_amount">"%.2f €"</string>
+</resources>
